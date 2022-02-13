@@ -11,5 +11,5 @@ uma ação por vez.
 * Crie uma pasta com o nome **Aprovadas**, ela é onde o resultado das lives serão salvos.
 * Crie uma pasta com o nome **Reprovadas**, nesta sará salvo todos os resultados die.
 * Dentro no arquivo ˋˋˋindex.jsˋˋˋ tem uma linha com o comando abaixo:</br>
-ˋˋˋurl: "https://localhost/dashboard/web/2022/clientes/vr-beneficio/api.php?lista=${email}|${senha}" ˋˋˋ </br>
+ˋˋˋurl: https://localhost/dashboard/web/2022/clientes/vr-beneficio/api.php?lista=${email}|${senha} ˋˋˋ </br>
 você vai precisar trocar o nome do local onde se encontra a sua api.
