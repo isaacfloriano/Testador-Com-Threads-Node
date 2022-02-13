@@ -13,6 +13,6 @@ uma ação por vez.
 3. Dentro no arquivo ˋindex.jsˋ tem uma linha com o comando abaixo:</br>
 ˋˋˋ
 url: https://localhost/dashboard/web/2022/clientes/vr-beneficio/api.php?lista=${email}|${senha}
-''' 
+ˋˋˋ
 </br>
 você vai precisar trocar o nome do local onde se encontra a sua api.
